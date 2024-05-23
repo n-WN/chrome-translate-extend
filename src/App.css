@@ -1,0 +1,12 @@
+/* 按下拓展栏按钮, 无视 */
+.App {
+  color: rgb(50, 42, 42);
+  text-align: center;
+}
+
+.container {
+  width: 15rem;
+  height: 15rem;
+  background-color: rgb(124, 142, 124);
+
+}
